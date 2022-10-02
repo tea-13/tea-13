@@ -1,12 +1,9 @@
-|
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 30px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tea-13&theme=tokyonight&show_icons=true" />
-  </a>
-|
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tea-13&hide=Processing&layout=compact" />
-  </a>
-|
+|<a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 30px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tea-13&theme=tokyonight&show_icons=true" />
+</a>|
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tea-13&hide=Processing&layout=compact" />
+</a>|
 | ------------- | ------------- |
 
 <!--
