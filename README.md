@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Tiryoh's github stats](https://github-readme-stats.vercel.app/api?username=tea-13&theme=tokyonight&show_icons=true)](https://github.com/Tiryoh/Tiryoh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tea-13&hide=Processing)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **tea-13/tea-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
