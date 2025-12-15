@@ -34,7 +34,7 @@ Profile README - оформляется в репозитории с имене�
 ### 🛠 Технологии и стек
 
 **Языки:**
-`Python` · `C++` · `Bash`
+`Python` · `C++` · `Rust`, `Bash`
 
 **ML / CV:**
 `PyTorch` · `TensorFlow` · `OpenCV` · `NumPy` · `Pandas` · `scikit-learn`
