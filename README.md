@@ -61,7 +61,7 @@ Profile README - оформляется в репозитории с имене�
 
 ### 📫 Как связаться
 
-- 💌 Email: `zemlianoinik@ya.ru`
+- 💌 Email: `kenya0ze@gmail.com`
 - 💼 [Telegram](https://t.me/kenya_69)
 
 ---
