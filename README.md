@@ -10,11 +10,11 @@ Profile README - оформляется в репозитории с имене�
 </p>
 
 <p align="center">
-  <a href="https://github.com/<your-username>">
+  <a href="https://github.com/tea-13">
     <img src="https://komarev.com/ghpvc/?username=tea-13&label=Profile%20views&style=flat" alt="profile views" />
   </a>
   &nbsp;
-  <a href="https://github.com/<your-username>?tab=followers">
+  <a href="https://github.com/tea-13?tab=followers">
     <img src="https://img.shields.io/github/followers/tea-13?label=Followers&style=flat" alt="followers" />
   </a>
 </p>
